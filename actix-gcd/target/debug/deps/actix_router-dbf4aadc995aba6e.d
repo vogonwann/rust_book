@@ -1,0 +1,12 @@
+/home/wann/Development/Rust/books/rust programming/actix-gcd/target/debug/deps/actix_router-dbf4aadc995aba6e.rmeta: /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/wann/Development/Rust/books/rust programming/actix-gcd/target/debug/deps/libactix_router-dbf4aadc995aba6e.rlib: /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/wann/Development/Rust/books/rust programming/actix-gcd/target/debug/deps/actix_router-dbf4aadc995aba6e.d: /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs:

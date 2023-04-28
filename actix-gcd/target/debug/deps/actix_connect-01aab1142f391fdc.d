@@ -1,0 +1,12 @@
+/home/wann/Development/Rust/books/rust programming/actix-gcd/target/debug/deps/actix_connect-01aab1142f391fdc.rmeta: /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs
+
+/home/wann/Development/Rust/books/rust programming/actix-gcd/target/debug/deps/actix_connect-01aab1142f391fdc.d: /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs /home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs
+
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs:
+/home/wann/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs:
