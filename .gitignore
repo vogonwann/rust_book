@@ -14,3 +14,4 @@ Cargo.lock
 *.pdb
 actix-gcd/target/debug
 actix-gcd/target/debug/deps
+mandelbrot/mandel.png
